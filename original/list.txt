@@ -1,0 +1,9 @@
+.
+./.gitignore
+./bin
+./bin/run.sh
+./bin/test.sh
+./copy
+./copy/.keep
+./original
+./original/list.txt
